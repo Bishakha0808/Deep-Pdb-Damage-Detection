@@ -1,6 +1,6 @@
 it will detect the the fault from images and marked them by using patchcore algorithm , with .93 recall score.
 
-
+here Deep PCB dataset was used.
 output image with detection , 
 ![Image](https://github.com/user-attachments/assets/f883b113-6372-4c8e-ba52-2a06bc55e970)
 
